@@ -1,0 +1,8 @@
+{
+  "name": "ConcursoMaster AI",
+  "description": "Uma plataforma inteligente para concurseiros brasileiros com simulados personalizados, tutor de IA, mapas de estudo e edição de materiais.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
