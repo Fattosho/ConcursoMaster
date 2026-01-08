@@ -1,8 +1,9 @@
 {
-  "name": "ConcursoMaster AI",
-  "description": "Uma plataforma inteligente para concurseiros brasileiros com simulados personalizados, tutor de IA, mapas de estudo e edição de materiais.",
+  "name": "ConcursoMaster Beta Edition",
+  "description": "Plataforma de alta performance para concurseiros, com design dark neon e integração total com Gemini AI.",
   "requestFramePermissions": [
     "camera",
+    "microphone",
     "geolocation"
   ]
 }
